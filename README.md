@@ -4,4 +4,4 @@
 2. In the command line, cd to that directory
 3. Initiallise npm through "npm init"
 4. Press Enter for everything (can add info as you want)
-5. Install Express and Body-parser through "npm i express body-parser"
+5. Install npm packages through "npm i"
