@@ -5,3 +5,4 @@
 3. Initiallise npm through "npm init"
 4. Press Enter for everything (can add info as you want)
 5. Install npm packages through "npm i"
+6. If your website requires authentication, install bcrypt packages first thing
